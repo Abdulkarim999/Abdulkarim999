@@ -28,20 +28,20 @@
 
 | Project | Description |
 |--------|-------------|
-| [🚨 Tanzania Emergency Help](https://github.com/AbdulKTech/TanzaniaEmergencyHelp) | A Flutter app for fast emergency alerts and location sharing |
-| [📷 Smart Evidence Collector](https://github.com/AbdulKTech/SmartEvidenceCollector) | Capture and store forensic photos securely using mobile camera |
-| [🛡️ Hybrid IDS](https://github.com/AbdulKTech/HybridIDS) | Network Intrusion Detection combining Signature + Anomaly systems |
+| [🚨 Tanzania Emergency Help](https://github.com/Abdulkarim999/TanzaniaEmergencyHelp) | A Flutter app for fast emergency alerts and location sharing |
+| [📷 Smart Evidence Collector](https://github.com/Abdulkarim999/SmartEvidenceCollector) | Capture and store forensic photos securely using mobile camera |
+| [🛡️ Hybrid IDS](https://github.com/Abdulkarim999/HybridIDS) | Network Intrusion Detection combining Signature + Anomaly systems |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulKTech&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulKarim999&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulKTech&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulKarim999&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulKTech&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulKarim999&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -57,5 +57,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulKTech&theme=onedark&row=1&margin-w=10&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulKarim999&theme=onedark&row=1&margin-w=10&no-bg=true" />
 </p>
